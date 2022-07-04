@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AboutCongo/static/css/main.073c9b0a.css",
+    "main.js": "/AboutCongo/static/js/main.616468fa.js",
+    "static/js/787.768d6f4e.chunk.js": "/AboutCongo/static/js/787.768d6f4e.chunk.js",
+    "static/media/logo.svg": "/AboutCongo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AboutCongo/index.html",
+    "main.073c9b0a.css.map": "/AboutCongo/static/css/main.073c9b0a.css.map",
+    "main.616468fa.js.map": "/AboutCongo/static/js/main.616468fa.js.map",
+    "787.768d6f4e.chunk.js.map": "/AboutCongo/static/js/787.768d6f4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.616468fa.js"
+  ]
+}
